@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hi there 👋
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xDepcio.xDepcio)
+### I'm 20 years old Compuer Science student at Warsaw University of Technology with passion for web development.
+- Portfolio website - https://portfolio-ge1cn95ib-xdepcio.vercel.app/
+## 🔧 Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **xDepcio/xDepcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

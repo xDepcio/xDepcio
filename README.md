@@ -1,7 +1,7 @@
 # Hi there 👋
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xDepcio.xDepcio)
-### I'm 20 years old Compuer Science student at Warsaw University of Technology with passion for web development.
-- Mine last cool project - https://strapup.vercel.app/
+### I study Compuer Science at Warsaw University of Technology. Check out some cool things I did, since you're here. ⬇️
+- Last cool project - https://strapup.vercel.app/
 - My NPM registry - https://www.npmjs.com/~depcio
 ## 🔧 Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nextjs,prisma,tailwind,py,qt,react,express,sequelize,cpp,redux,nodejs)](https://skillicons.dev)
